@@ -55,13 +55,31 @@ built from scratch to develop practical skills beyond the academic curriculum.
 
 ---
 
+## Project 3 — Next plc Financial Dashboard (Power BI)
+
+**Tools:** Microsoft Power BI  
+
+Built an interactive financial dashboard visualising Next plc 
+revenue growth, net income trends, and margin analysis across 
+6 years of data (FY2022A–FY2027E). Features KPI cards, 
+bar charts and multi-line margin tracking.
+
+
+
+
+---
+
+
 ## Skills Demonstrated
 - Financial modelling (3-statement, DCF, sensitivity analysis)
 - Python for financial data analysis
 - Equity valuation and interpretation
 - Portfolio risk analysis (Sharpe ratio, correlation)
-
+- Data visualisation and dashboard design (Power BI)
+- Financial dashboard reporting and KPI analysis
 ---
 
 *Projects completed June 2026 | Open to graduate opportunities 
 in investment analysis, asset management and corporate finance*
+
+
