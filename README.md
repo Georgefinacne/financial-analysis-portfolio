@@ -69,6 +69,16 @@ bar charts and multi-line margin tracking.
 
 ---
 
+## Project 4 — GXO Logistics Equity Research Note
+
+Built a professional stock pitch on GXO Logistics (NYSE: GXO) 
+recommending BUY with a $68 target price (21% upside). 
+Covers investment thesis, financial analysis, risks, and 
+valuation based on real earnings data and analyst consensus.
+
+
+---
+
 
 ## Skills Demonstrated
 - Financial modelling (3-statement, DCF, sensitivity analysis)
